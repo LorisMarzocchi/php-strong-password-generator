@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #001632 !important;
+}
+.btn_control {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+form {
+  background-color: #f8f9fa;
+  padding: 2rem;
+  border-radius: 10px;
+}
+.alert {
+  background-color: #cff4fc !important;
+}
